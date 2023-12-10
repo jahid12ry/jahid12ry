@@ -12,10 +12,12 @@
 - 📫 How to reach me: Linkedin 
 - ⚡ Fun fact: I like to solve problems 
 
+-
 -Mostly Uses:
+-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap,c,cs,html,css,cpp,daisyUI,tailwind,java,jquery,javascript,react,expressjs,mongodb,figma,github,laravel,nextjs,redux,vercel,vscode" />
-  
   </a>
 </p>
+-
