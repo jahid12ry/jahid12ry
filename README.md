@@ -3,7 +3,7 @@
 
 -Social Links:
 - 🔭 
-- [![My Skills](https://skillicons.dev/icons?i=instagram,linkedin,facebook,twitter&perline=3)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=instagram,linkedin,facebook,twitter,flutter&perline=3)](https://skillicons.dev)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
