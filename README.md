@@ -15,7 +15,7 @@
 -Mostly Uses:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,c,cs,html,css,cpp,daisy,tailwind,javascript,react,expressjs,mongodb" />
   
   </a>
 </p>
